@@ -1,0 +1,193 @@
+---
+title: 'Database Overview'
+vignette: >
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteIndexEntry{Database Overview}
+  \usepackage[utf8]{inputenc}
+author: 'Eric Bryant, eeb2139@columbia.edu'
+date: '`r Sys.Date()`'
+bibliography: '_references.bib'
+output: 
+  rmarkdown::html_vignette:
+    toc: yes
+---
+
+# Quick Links
+
+- [Strains](strains.html)
+- [Primers](primers.html)
+- [Freezer](freezer.html)
+
+# Tables
+
+## Freezer Addresses
+
+**Table name:** `addresses`
+
+**Fields:**
+
+Field             Description
+----------------- -------------------------------------------------------
+`freezer`         Freezer name
+`temp`            Freezer temperature
+`shelf`           Shelf number (starting with 1 at top of freezer)
+`rack`            Rack number (starting with 1 on left of shelf)
+`pullout`         Pullout number (starting with 1 at top of rack)
+`insert`          Insert number (starting with 1 at front of pullout)
+`row`             Row letter (starting with A at top of insert)
+`column`          Column number (starting with 1 at left of insert)
+`pullout_label`   Label on Pullout
+`box_label`       Label on Box
+`description`     Description of item
+`type`            Type of item (computed from other tables in database)
+`item_id`         ID of item (must match a `strain_id`, `plasmid_id`, or 
+                  `primer_id`)
+
+## Allele-Item mappings
+
+**Table name:** `allele_item`
+
+**Fields:**
+
+Field             Description
+----------------- -------------------------------------------------------
+`allele_id`       An allele ID (must be present in `alleles` table)
+`item_id`         ID of item (must match a `strain_id`, `plasmid_id`, or 
+                  `primer_id`)
+
+
+## Allele annotation
+
+**Table name:** `alleles`
+
+**Fields:**
+
+Field                Description
+-------------------- -------------------------------------------------------
+`allele_id`          An allele ID
+`allele_name`        Name of allele
+`allele_type`        Type of allele (e.g. disruption, point mutation...)
+`allele_description` Description of allele
+`dna_changes`        Mutations relative to WT reference DNA
+`aa_changes`         Mutations relative to WT reference amino acid sequence
+
+
+## Antibodies
+
+**Table name:** `antibodies`
+
+**Fields:**
+
+Field                  Description
+---------------------- -------------------------------------------------------
+`antibody_id`          An antibody ID
+`antibody_name`        Name of antibody
+`antibody_description` Description of antibody
+
+
+## Drugs
+
+**Table name:** `drugs`
+
+**Fields:**
+
+Field                  Description
+---------------------- -------------------------------------------------------
+`drug_id`              A drug ID
+`drug_name`            Name of drug
+`drug_description`     Description of drug
+
+
+## Gene annotation
+
+**Table name:** `genes`
+
+**Fields:**
+
+Field                  Description
+---------------------- -------------------------------------------------------
+`gene_id`              SGD ID
+`orf_id`               ORF ID
+`gene_name`            Official gene name (from SGD)
+`gene_alias`           Gene aliases (separaged by ` | `)
+`gene_description`     Gene descritpion
+
+
+## Plasmids
+
+**Table name:** `plasmids`
+
+**Fields:**
+
+Field                 Description
+--------------------- -------------------------------------------------------
+`plasmid_id`          ID of plasmid (e.g. pWJ#)
+`plasmid_name`        Name of plasmid
+`plasmid_description` Description of plasmid
+`promoter`            Promoter source (e.g. GAL1)
+`allele_id`           An allele ID
+`gene_id`             A gene ID
+`insert_gene`         
+`insert_orf`
+`yeast_marker`
+`yeast_propagation`
+`bact_marker`
+`bact_propagation`
+`plasmid_parent`
+`plasmid_owner`
+`plasmid_address`     Soon to be removed
+`plasmid_date`
+`plasmid_notes`
+`viability`           Soon to be removed
+
+
+## Primers
+
+**Table name:** `primers`
+
+**Fields:**
+
+Field                  Description
+---------------------- -------------------------------------------------------
+`primer_id`            ID of primer
+`alias`                Alias of primer
+`sequence`             Sequence of primer
+`description`          Description of primer
+`owner`                Owner of primer
+`notes`                Notes on primer
+
+
+## Strain Collections
+
+**Table name:** `strain_collections`
+
+**Fields:**
+
+Field                     Description
+------------------------- ------------------------------------------------------
+`strain_collection_id`    ID of strain collection
+`strain_id`               Strain ID
+`plate`                   Plate number
+`row`                     Row letter
+`column`                  Column number
+`plate_control`           Is the strain to be treated as a plate control? (T/F)
+`strain_collection_notes` Notes on the strain in this particular collection
+
+
+## Strains
+
+**Table name:** `strains`
+
+**Fields:**
+
+Field                 Description
+--------------------- -------------------------------------------------------
+`strain_id`           Strain ID
+`strain_name`         Strain name
+`strain_description`  Strain description
+`allele_id`           
+`gene_id`
+`genotype`
+`mat`
+`background`
+`strain_notes`

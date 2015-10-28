@@ -1,0 +1,18 @@
+---
+title: 'Freezer addresses'
+vignette: >
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteIndexEntry{Freezer Addresses}
+  \usepackage[utf8]{inputenc}
+date: '`r Sys.Date()`'
+output: 'rmarkdown::html_vignette'
+---
+
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+library(rothfreezer)
+library(DT)
+src_rothfreezer() %>%
+  tbl('addresses') %>%
+  collect %>%
+  datatable(filter = 'top')
+```
