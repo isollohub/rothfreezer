@@ -1,0 +1,57 @@
+name: rothfreezer.sqlite
+
+update:
+  genes: 'rothfreezer::update_genes("annotation/genes.csv")'
+
+table: # --- name ---|------ path ---------------|----- description -----------
+  addresses:          addresses                  # freezer addresses
+  # Items
+  antibodies:         antibodies.csv             # antibody annotation
+  drugs:              drugs.csv                  # drug annotation
+  plasmids:           plasmids.csv               # plasmid annotation
+  primers:            primers.csv                # primer annotation
+  strains:            strains                    # strain annotation
+  strain_collections: strain-collections         # strain collection keyfiles
+  # Annotation
+  genes:              annotation/genes.csv       # gene annotation
+  alleles:            annotation/alleles         # allele annotation
+  #allele_gene:       annotation/allele_gene.csv # map of alleles to genes
+  allele_item:        annotation/allele-item     # map of alleles to items
+
+keys: # --- name ----|------ keys ---------------------------------------------
+  addresses:          [freezer, shelf, rack, pullout, insert, row, column]
+  antibodies:         [antibody_id]
+  alleles:            [allele_id]
+  allele_gene:        [allele_id, gene_id]
+  allele_item:        [allele_id, item_id]
+  drugs:              [drug_id]
+  genes:              [gene_id]
+  plasmids:           [plasmid_id]
+  primers:            [primer_id]
+  strains:            [strain_id]
+  strain_collections: [strain_collection_id, plate, row, column]
+
+fields: # --- name --|------ fields -------------------------------------------
+  addresses:          [freezer, temp, shelf, rack, pullout, insert, row, column, pullout_label, box_label, description, type, item_id]
+  antibodies:         [antibody_id, name, description]
+  alleles:            [allele_id, allele_name, allele_type, allele_description, dna_changes, aa_changes]
+  allele_gene:        [allele_id, gene_id]
+  allele_item:        [allele_id, item_id]
+  drugs:              [drug_id, name, description]
+  genes:              [gene_id, orf_id, gene_name, gene_alias, gene_description]
+  plasmids:           [plasmid_id, name, description, parent, owner, notes, yeast_marker, yeast_propagation, bact_marker, bact_propagation]
+  primers:            [primer_id, name, alias, sequence, description, owner, notes]
+  strains:            [strain_id, name, description, genotype, mat, background, owner, notes]
+  strain_collections: [strain_collection_id, strain_id, plate, row, column, plate_control, strain_collection_notes]
+
+schema:
+  addresses: 
+    item_id:   {strains: strain_id, plasmids: plasmid_id, primers: primer_id, antibodies: antibody_id}
+  allele_gene: 
+    allele_id: {alleles: allele_id}
+    genes_id:  {genes: gene_id}
+  allele_item:
+    allele_id: {alleles: allele_id}
+    item_id:   {strains: strain_id, plasmids: plasmid_id, primers: primer_id, antibodies: antibody_id}
+  strain_collections:
+    strain_id: {strains: strain_id}
