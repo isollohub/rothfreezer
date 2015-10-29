@@ -1,24 +1,21 @@
 name: rothfreezer.sqlite
 
 update:
-  genes: 'rothfreezer::update_genes("annotation/genes.csv")'
+  genes: 'rothfreezer::update_genes("genes/sgd.csv")'
 
-table: # --- name ---|------ path ---------------|----- description -----------
-  addresses:          addresses                  # freezer addresses
-  # Items
-  antibodies:         antibodies.csv             # antibody annotation
-  drugs:              drugs.csv                  # drug annotation
-  plasmids:           plasmids.csv               # plasmid annotation
-  primers:            primers.csv                # primer annotation
-  strains:            strains                    # strain annotation
-  strain_collections: strain-collections         # strain collection keyfiles
-  # Annotation
-  genes:              annotation/genes.csv       # gene annotation
-  alleles:            annotation/alleles         # allele annotation
-  #allele_gene:       annotation/allele_gene.csv # map of alleles to genes
-  allele_item:        annotation/allele-item     # map of alleles to items
+table:
+  addresses: addresses
+  antibodies: antibodies
+  drugs: drugs
+  plasmids: plasmids
+  primers: primers
+  strains: strains
+  strain_collections: strain-collections
+  genes: genes
+  alleles: alleles
+  allele_item: allele-item     # map of alleles to items
 
-keys: # --- name ----|------ keys ---------------------------------------------
+keys:
   addresses:          [freezer, shelf, rack, pullout, insert, row, column]
   antibodies:         [antibody_id]
   alleles:            [allele_id]
@@ -31,7 +28,7 @@ keys: # --- name ----|------ keys ---------------------------------------------
   strains:            [strain_id]
   strain_collections: [strain_collection_id, plate, row, column]
 
-fields: # --- name --|------ fields -------------------------------------------
+fields:
   addresses:          [freezer, temp, shelf, rack, pullout, insert, row, column, pullout_label, box_label, description, type, item_id]
   antibodies:         [antibody_id, name, description]
   alleles:            [allele_id, allele_name, allele_type, allele_description, dna_changes, aa_changes]
@@ -47,11 +44,8 @@ fields: # --- name --|------ fields -------------------------------------------
 schema:
   addresses: 
     item_id:   {strains: strain_id, plasmids: plasmid_id, primers: primer_id, antibodies: antibody_id}
-  allele_gene: 
-    allele_id: {alleles: allele_id}
-    genes_id:  {genes: gene_id}
   allele_item:
     allele_id: {alleles: allele_id}
-    item_id:   {strains: strain_id, plasmids: plasmid_id, primers: primer_id, antibodies: antibody_id}
+    item_id:   {strains: strain_id, plasmids: plasmid_id, primers: primer_id, antibodies: antibody_id, genes: gene_id}
   strain_collections:
     strain_id: {strains: strain_id}
