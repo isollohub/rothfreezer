@@ -8,6 +8,14 @@ Maintainer: 'Eric Bryant' <eeb2139@columbia.edu>
 Description: Freezer database for the Rothstein Lab.
 License: GPL (>= 2)
 VignetteBuilder: knitr
-Depends: dplyr
-Imports: easydb, RSQLite
-Suggests: knitr, devtools, DT, data.table
+Depends:
+    dplyr
+Imports:
+    easydb,
+    RSQLite
+Suggests:
+    knitr,
+    devtools,
+    DT,
+    data.table
+RoxygenNote: 5.0.1
