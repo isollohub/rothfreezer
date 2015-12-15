@@ -3234,7 +3234,7 @@ rec4980,she2,a-haploid KanMX disruption of SHE2 (S000001613) in BY background,S0
 rec4981,ykl131w,a-haploid KanMX disruption of YKL131W (S000001614) in BY background,S000001614-KanMX,S000001614,NA,a,BY4741,
 rec4982,rma1,a-haploid KanMX disruption of RMA1 (S000001615) in BY background,S000001615-KanMX,S000001615,NA,a,BY4741,
 rec4983,ykl133c,a-haploid KanMX disruption of YKL133C (S000001616) in BY background,S000001616-KanMX,S000001616,NA,a,BY4741,
-rec4984,1-Oct,a-haploid KanMX disruption of OCT1 (S000001617) in BY background,S000001617-KanMX,S000001617,NA,a,BY4741,
+rec4984,oct1,a-haploid KanMX disruption of OCT1 (S000001617) in BY background,S000001617-KanMX,S000001617,NA,a,BY4741,
 rec4985,apl2,a-haploid KanMX disruption of APL2 (S000001618) in BY background,S000001618-KanMX,S000001618,NA,a,BY4741,"AP! complex subunit B 1 adaptin -- growth on -met, super slow growth on -lys, super slow growth on drop in media, mates like alpha. Confirmed Alpha -- CORRECT STRAIN CAN BE FOUND IN PLATE 121 F8"
 rec4986,ykl136w,a-haploid KanMX disruption of YKL136W (S000001619) in BY background,S000001619-KanMX,S000001619,NA,a,BY4741,
 rec4987,cmc1,a-haploid KanMX disruption of CMC1 (S000001620) in BY background,S000001620-KanMX,S000001620,NA,a,BY4741,
@@ -8380,7 +8380,7 @@ rec14980,she2,alpha-haploid KanMX disruption of SHE2 (S000001613) in BY backgrou
 rec14981,ykl131w,alpha-haploid KanMX disruption of YKL131W (S000001614) in BY background,S000001614-KanMX,S000001614,NA,alpha,BY4742,
 rec14982,rma1,alpha-haploid KanMX disruption of RMA1 (S000001615) in BY background,S000001615-KanMX,S000001615,NA,alpha,BY4742,
 rec14983,ykl133c,alpha-haploid KanMX disruption of YKL133C (S000001616) in BY background,S000001616-KanMX,S000001616,NA,alpha,BY4742,
-rec14984,1-Oct,alpha-haploid KanMX disruption of OCT1 (S000001617) in BY background,S000001617-KanMX,S000001617,NA,alpha,BY4742,rg slow grow;slow grow ;rg slow grow;slow grow;
+rec14984,oct1,alpha-haploid KanMX disruption of OCT1 (S000001617) in BY background,S000001617-KanMX,S000001617,NA,alpha,BY4742,rg slow grow;slow grow ;rg slow grow;slow grow;
 rec14985,apl2,alpha-haploid KanMX disruption of APL2 (S000001618) in BY background,S000001618-KanMX,S000001618,NA,alpha,BY4742,"FAILED QC-APPEARS MAT A;Failed QC--growth -Lys, n/g -Met, n/g Aux, no mate w/ A, mate w/ alpha ;FAILED QC-APPEARS MAT A;Failed QC--growth -Lys, n/g -Met, n/g Aux, no mate w/ A, mate w/ alpha;"
 rec14986,ykl136w,alpha-haploid KanMX disruption of YKL136W (S000001619) in BY background,S000001619-KanMX,S000001619,NA,alpha,BY4742,
 rec14987,cmc1,alpha-haploid KanMX disruption of CMC1 (S000001620) in BY background,S000001620-KanMX,S000001620,NA,alpha,BY4742,
