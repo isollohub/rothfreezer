@@ -5,15 +5,17 @@ update:
 
 table:
   addresses: addresses
+  allele_item: allele-item     # map of alleles to items
+  alleles: alleles
   antibodies: antibodies
-  drugs: drugs
+  genes: genes
+  media: media
   plasmids: plasmids
   primers: primers
-  strains: strains
+  queries: queries
   strain_collections: strain-collections
-  genes: genes
-  alleles: alleles
-  allele_item: allele-item     # map of alleles to items
+  strains: strains
+  treatment: treatments
 
 keys:
   addresses:          [freezer, shelf, rack, pullout, insert, row, column]
