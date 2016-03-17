@@ -1,0 +1,6 @@
+treatment_id,treatment_name,treatment_description
+CisPt,Cisplatin,DNA cross-linking agent
+Rapa,Rapamycin,Inhibitor of TOR
+CPT,Camptothecin,Topoisomerase I inhibitor
+UV,UV,Ultraviolet radiation
+IR,IR,Gamma irradiation
