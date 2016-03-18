@@ -14,7 +14,7 @@ table:
   primers: primers
   queries: queries
   strain_collections: strain-collections
-  collection_info: collection-info
+  strain_collection_info: strain-collection-info
   strains: strains
   treatments: treatments
 
