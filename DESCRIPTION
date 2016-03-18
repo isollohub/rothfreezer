@@ -18,4 +18,6 @@ Suggests:
     devtools,
     DT,
     data.table
+Remotes:
+    EricEdwardBryant/easydb
 RoxygenNote: 5.0.1
