@@ -15,7 +15,7 @@ table:
   queries: queries
   strain_collections: strain-collections
   strains: strains
-  treatment: treatments
+  treatments: treatments
 
 keys:
   addresses:          [freezer, shelf, rack, pullout, insert, row, column]
