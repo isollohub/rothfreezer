@@ -1,6 +1,6 @@
-treatment_id,treatment_name,treatment_description
-CisPt,Cisplatin,DNA cross-linking agent
-Rapa,Rapamycin,Inhibitor of TOR
-CPT,Camptothecin,Topoisomerase I inhibitor
-UV,UV,Ultraviolet radiation
-IR,IR,Gamma irradiation
+treatment_id,treatment_name,control_treatment_id,treatment_description
+Untreated,Untreated,Untreated,No special treatment
+CisPt-25uM,25uM Cisplatin,Untreated,25uM of cisplatinum. A DNA cross-linking and chemotherapeutic agent.
+CisPt-50uM,50uM Cisplatin,Untreated,50uM of cisplatinum. A DNA cross-linking and chemotherapeutic agent.
+CisPt-75uM,75uM Cisplatin,Untreated,75uM of cisplatinum. A DNA cross-linking and chemotherapeutic agent.
+CisPt-100uM,100uM Cisplatin,Untreated,100uM of cisplatinum. A DNA cross-linking and chemotherapeutic agent.
