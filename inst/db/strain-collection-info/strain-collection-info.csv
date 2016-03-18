@@ -1,7 +1,9 @@
 strain_collection_id,description
-cispt-sensitive-1,
-MATa-deletion-384,
-MATa-ts-384-hb,
-"MATalpha-CTF4-validation1-96",
-"MATalpha-CTF4,RAD5-384-hb",
-"MATalpha-CTF4,RAD5-96-hb",
+MATa-deletion-384,The Rothstein Lab's copy of the MATa KanMX deletion collection key for 384 density format. Plate 14 consists of 96 well plate numbers red=72 blue=73 yellow=41 green=42
+MATa-ts-384-hb,The Rothstein Lab's copy of the MATa KanMX tagged temperature sensitive collection key for 384 format. Collection has a his::KanMX border.
+MATalpha-deletion-96,The Rothstein Lab's copy of the MATalpha KanMX deletion collection key for 96 well format.
+MATalpha-deletion-384-hb,The Rothstein Lab's copy of the MATalpha KanMX deletion collection key for 384 density format. Collection has a his::KanMX border.
+cispt-sensitive-1,Antoinne's Cisplatin sensitive strain collection. Cherry-picked from the MATa KanMX deletion collection.
+MATalpha-CTF4-validation1-96,Original CTF4 validation collection cherry-picked from the MATalpha KanMX deletion collection.
+"MATalpha-CTF4,RAD5-384-hb","Collection of CTF4, or RAD5 SDL MATalpha KanMX deletion strains. Also includes strains that have many interactions with this set that were not identified as SDL. This is the 384 density key used for screening."
+"MATalpha-CTF4,RAD5-96-hb","Collection of CTF4, or RAD5 SDL MATalpha KanMX deletion strains. Also includes strains that have many interactions with this set that were not identified as SDL. This is the 96 density key used for the original cherry-picking into 96 well plates."
