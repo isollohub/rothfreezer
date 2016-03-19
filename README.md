@@ -5,8 +5,12 @@ The data in this *R* package is intended for use by members of the Rothstein Lab
 ## Installation
 
 ```r
-library(devtools)
-install_github('EricEdwardBryant/rothfreezer', build_vignettes = TRUE)
+# BioC. (>= 1.18.0) supports GitHub package installs with BioC. dependencies
+if (!require('BiocInstaller') || packageVersion('BiocInstaller') < '1.18.0') {
+  source('https://bioconductor.org/biocLite.R')
+}
+
+biocLite('EricEdwardBryant/screenmill')
 ```
 
 ## Contribute
