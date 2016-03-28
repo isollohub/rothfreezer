@@ -5,3 +5,5 @@ SGA-Rad5::NatMX,rad5,strains,SGA-Leu2::NatMX
 SGA-Rad18::NatMX,rad18,strains,SGA-Leu2::NatMX
 SGA-Rev1::NatMX,rev1,strains,SGA-Leu2::NatMX
 SGA-Rad14::NatMX,rad14,strains,SGA-Leu2::NatMX
+SGA-Shu1::NatMX,shu1,strains,SGA-Leu2::NatMX
+SGA-Shu2::NatMX,shu2,strains,SGA-Leu2::NatMX
