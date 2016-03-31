@@ -7,3 +7,4 @@ cispt-sensitive-1,Antoinne's Cisplatin sensitive strain collection. Cherry-picke
 MATalpha-CTF4-validation1-96,Original CTF4 validation collection cherry-picked from the MATalpha KanMX deletion collection.
 "MATalpha-CTF4,RAD5-384-hb","Collection of CTF4, or RAD5 SDL MATalpha KanMX deletion strains. Also includes strains that have many interactions with this set that were not identified as SDL. This is the 384 density key used for screening."
 "MATalpha-CTF4,RAD5-96-hb","Collection of CTF4, or RAD5 SDL MATalpha KanMX deletion strains. Also includes strains that have many interactions with this set that were not identified as SDL. This is the 96 density key used for the original cherry-picking into 96 well plates."
+"MATa-cispt-384-hb","Collection of BY MATa KanMX deletion strains for cisplatin dE-MAP, cherry-picked by Laura Crowley"
