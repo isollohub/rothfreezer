@@ -1,9 +1,9 @@
 query_id,query_name,query_annotation,control_query_id
-SGA-Leu2::NatMX,leu2,strains,SGA-Leu2::NatMX
-SGA-Mph1::NatMX,mph1,strains,SGA-Leu2::NatMX
-SGA-Rad5::NatMX,rad5,strains,SGA-Leu2::NatMX
-SGA-Rad18::NatMX,rad18,strains,SGA-Leu2::NatMX
-SGA-Rev1::NatMX,rev1,strains,SGA-Leu2::NatMX
-SGA-Rad14::NatMX,rad14,strains,SGA-Leu2::NatMX
-SGA-Shu1::NatMX,shu1,strains,SGA-Leu2::NatMX
-SGA-Shu2::NatMX,shu2,strains,SGA-Leu2::NatMX
+J1801,leu2,strains,J1801
+J1783,mph1,strains,J1801
+J1661,rad5,strains,J1801
+J1663,rad18,strains,J1801
+J1669,rev1,strains,J1801
+J1667,rad14,strains,J1801
+U3102,shu1,strains,J1801
+U3116-1,shu2,strains,J1801
