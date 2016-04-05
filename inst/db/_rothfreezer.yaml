@@ -3,6 +3,7 @@ name: rothfreezer.sqlite
 update:
   genes: 'rothfreezer::update_genes("genes/sgd.csv")'
 
+# Tables
 table:
   addresses: addresses
   allele_item: allele-item     # map of alleles to items
