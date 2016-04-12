@@ -10,7 +10,7 @@ if (!require('devtools') || packageVersion('devtools') < '1.9.1') {
   install.packages('devtools')
 }
 
-devtools::install_github('EricEdwardBryant/rothfreezer')
+devtools::install_github('EricEdwardBryant/rothfreezer', build_vignettes = T)
 ```
 
 ## Contribute
