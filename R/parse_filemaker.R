@@ -9,9 +9,6 @@
 #' @importFrom readr read_csv write_csv cols col_character
 #' @export
 
-
-
-file = '/Volumes/RothsteinLab/ Eric/_Notebook/2016/04/2016-04-06-strains-db-export.csv'
 parse_filemaker_export <- function(file , write = TRUE, blame = TRUE) {
 
   strains <-
