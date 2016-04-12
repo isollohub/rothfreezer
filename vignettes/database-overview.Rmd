@@ -6,7 +6,6 @@ vignette: >
   \usepackage[utf8]{inputenc}
 author: 'Eric Bryant, eeb2139@columbia.edu'
 date: '`r Sys.Date()`'
-bibliography: '_references.bib'
 output: 
   rmarkdown::html_vignette:
     toc: yes
