@@ -1,0 +1,12 @@
+# From:
+# https://help.github.com/articles/dealing-with-line-endings
+#   text=auto         Git will guess
+#   text eol=crlf     Git will convert to CRLF and checkout as LF
+#   text eol=lf       Git will convert to LF and checkout as LF
+#   binary            Git will not attempt to change line endings
+
+# The default behavior
+* text=auto
+
+# Normalize CRLF to LF
+*.csv  text
