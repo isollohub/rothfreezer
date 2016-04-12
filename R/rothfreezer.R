@@ -3,9 +3,7 @@
 #' 
 #' Connect to the rothfreezer SQLite database. 
 #' 
-#' @aliases rothfreezer
 #' @importFrom RSQLite SQLite
-#' @importFrom dplyr %>% src_sqlite
 #' @importFrom easydb db_config db_build
 #' @export
 #' 
@@ -17,6 +15,7 @@
 #' db <- src_rothfreezer()
 #' db
 #' 
+
 src_rothfreezer <- function() {
   # Read configuration file
   cnf <- system.file('db/_rothfreezer.yaml', package = 'rothfreezer') %>% db_config()
@@ -30,7 +29,6 @@ src_rothfreezer <- function() {
 
 
 #-- src_rothscreen methods ----------------------------------------------------
-#' @importFrom dplyr src_desc
 #' @export
 src_desc.src_rothfreezer <- function(x) {
   paste0(

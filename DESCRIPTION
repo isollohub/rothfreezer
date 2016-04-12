@@ -12,7 +12,8 @@ Depends:
     dplyr
 Imports:
     easydb,
-    RSQLite
+    RSQLite,
+    readr
 Suggests:
     knitr,
     devtools,

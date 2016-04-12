@@ -5,7 +5,6 @@
 #' 
 #' @param to Where to write the CSV
 #' 
-#' @importFrom dplyr %>% select_ 
 #' @importFrom data.table fread
 #' @export
 
