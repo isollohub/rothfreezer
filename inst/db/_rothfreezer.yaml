@@ -44,6 +44,9 @@ fields:
   strains:            [strain_id, name, description, genotype, mat, background, owner, notes]
   strain_collections: [strain_collection_id, strain_id, plate, row, column, plate_control, strain_collection_notes]
 
+column_types:
+  plate_control: logical
+
 schema:
   addresses: 
     item_id:   {strains: strain_id, plasmids: plasmid_id, primers: primer_id, antibodies: antibody_id}

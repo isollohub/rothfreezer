@@ -11,4 +11,5 @@
 #' @docType package
 #'
 #' @import dplyr
+#' @import assertthat
 NULL
