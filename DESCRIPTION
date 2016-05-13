@@ -1,7 +1,7 @@
 Package: rothfreezer
 Type: Package
 Title: Freezer database for the Rothstein Lab
-Version: 0.0.4.9003
+Version: 0.0.5
 Date: 2014-08-18
 Authors@R: 'Eric Bryant <eeb2139@columbia.edu> [aut,cre]'
 Maintainer: 'Eric Bryant' <eeb2139@columbia.edu>
