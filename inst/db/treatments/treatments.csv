@@ -1,11 +1,21 @@
 treatment_id,treatment_name,control_treatment_id,treatment_description
 Untreated,Untreated,Untreated,No special treatment
 CisPt-0uM,0uM Cisplatin,CisPt-0uM,0uM of cisplatinum. A DNA cross-linking and chemotherapeutic agent.
+CisPt-2.5uM,2.5uM Cisplatin,CisPt-0uM,2.5uM of cisplatinum. A DNA cross-linking and chemotherapeutic agent.
 CisPt-5uM,5uM Cisplatin,CisPt-0uM,5uM of cisplatinum. A DNA cross-linking and chemotherapeutic agent.
 CisPt-10uM,10uM Cisplatin,CisPt-0uM,10uM of cisplatinum. A DNA cross-linking and chemotherapeutic agent.
 CisPt-15uM,15uM Cisplatin,CisPt-0uM,15uM of cisplatinum. A DNA cross-linking and chemotherapeutic agent.
 CisPt-20uM,20uM Cisplatin,CisPt-0uM,20uM of cisplatinum. A DNA cross-linking and chemotherapeutic agent.
 CisPt-25uM,25uM Cisplatin,CisPt-0uM,25uM of cisplatinum. A DNA cross-linking and chemotherapeutic agent.
+CisPt-30uM,30uM Cisplatin,CisPt-0uM,30uM of cisplatinum. A DNA cross-linking and chemotherapeutic agent.
+CisPt-35uM,35uM Cisplatin,CisPt-0uM,35uM of cisplatinum. A DNA cross-linking and chemotherapeutic agent.
+CisPt-40uM,40uM Cisplatin,CisPt-0uM,40uM of cisplatinum. A DNA cross-linking and chemotherapeutic agent.
+CisPt-45uM,45uM Cisplatin,CisPt-0uM,45uM of cisplatinum. A DNA cross-linking and chemotherapeutic agent.
 CisPt-50uM,50uM Cisplatin,CisPt-0uM,50uM of cisplatinum. A DNA cross-linking and chemotherapeutic agent.
+CisPt-55uM,55uM Cisplatin,CisPt-0uM,55uM of cisplatinum. A DNA cross-linking and chemotherapeutic agent.
+CisPt-60uM,60uM Cisplatin,CisPt-0uM,60uM of cisplatinum. A DNA cross-linking and chemotherapeutic agent.
+CisPt-65uM,65uM Cisplatin,CisPt-0uM,65uM of cisplatinum. A DNA cross-linking and chemotherapeutic agent.
+CisPt-70uM,70uM Cisplatin,CisPt-0uM,70uM of cisplatinum. A DNA cross-linking and chemotherapeutic agent.
 CisPt-75uM,75uM Cisplatin,CisPt-0uM,75uM of cisplatinum. A DNA cross-linking and chemotherapeutic agent.
+CisPt-80uM,80uM Cisplatin,CisPt-0uM,80uM of cisplatinum. A DNA cross-linking and chemotherapeutic agent.
 CisPt-100uM,100uM Cisplatin,CisPt-0uM,100uM of cisplatinum. A DNA cross-linking and chemotherapeutic agent.
