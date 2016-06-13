@@ -161,3 +161,8 @@ rad5-d215-225-F,,TCTGCTACTAAAGTATATAGTTTGGTAAGAATTTTTGAT,Forward primter to dele
 rad5-d215-225-R,,ATCAAAAATTCTTACCAAACTATATACTTTAGTAGCAGA,Reverse primter to delete second half of loop 2 in HIRAN domain,Robert Reid,
 rad5-d173-281-F,,GAAGATAAAGTTACTTGGCAATTGGATTGCTTTTTAACA,Forward primter to delete OB fold domain,Robert Reid,
 rad5-d173-281-R,,TGTTAAAAAGCAATCCAATTGCCAAGTAACTTTATCTTC,Reverse primter to delete OB fold domain,Robert Reid,
+rad5-N293d-A,,ggaattccagctgaccaccgatgGAACGTAATGATGGAGAATCC,RAD5 N-terminal truncation of the first 293 AA. Removes HIRAN and one predicted NLS sequence. Maintains two NLS sequences. Has start codon and A homology sequence.,Eric Bryant,truncation
+rad5-N164d-A,,ggaattccagctgaccaccgatgCGATTAGAAGATAAAGTTACTTGG,,Eric Bryant,truncation
+rad5-N904d-A,,ggaattccagctgaccaccgatgGACAATAAATCGTTTCAGTCC,,Eric Bryant,truncation
+rad5-N983d-A,,ggaattccagctgaccaccgatgTTCAAACCATATTCACCAGC,,Eric Bryant,truncation
+rad5-C990d-B,,gatccccgggaattgccatggttaTGGTGAATATGGTTTGAATTCC,RAD5 C-terminal truncation of AA residues 990-1170. Removes Helicase domain and one predicted NLS sequence. Maintains two NLS sequences. Has stop codon and B homology sequence.,Eric Bryant,truncation
