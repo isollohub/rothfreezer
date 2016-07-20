@@ -1,0 +1,7 @@
+primer_id,alias,sequence,description,owner,notes
+KanMX-U1F,U1F,GATGTCCACGAGGTCTCT,Forward - amplifies KanMX from deletion collection. Will amplify uptag.,Eric Bryant,
+KanMX-U2F,U2F,CGTACGCTGCAGGTCGAC,Forward - amplifies KanMX from deletion collection. Will NOT amplify uptag. Can be used to amplify KanMX4 from pFA6 plasmid.,Eric Bryant,
+KanMX-D1R,D1R,CGGTGTCGGTCTCGTAG,Reverse - amplifies KanMX from deletion collection. Will amplify downtag.,Eric Bryant,
+KanMX-D2R,D2R,ATCGATGAATTCGAGCTCG,Reverse - amplifies KanMX from deletion collection. Will NOT amplify downtag. Can be used to amplify KanMX4 from pFA6 plasmid.,Eric Bryant,
+KanMX-int-R,KanB,CTGCAGCGAGGAGCCGTAAT,Reverse - internal KanMX primer. Can be used to sequence UPTAG.,Eric Bryant,
+KanMX-int-F,KanC,TGATTTTGATGACGAGCGTAAT,Forward - internal KanMX primer. Can be used to sequence DOWNTAG.,Eric Bryant,
