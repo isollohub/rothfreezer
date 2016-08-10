@@ -4,6 +4,8 @@ CTF4-B,,gatccccgggaattgccatggGATTTGAACAAATGAACAGG,Reverse CTF4 primer with B ada
 CTF4-300up,,ACAGGTACAAGGCTTATCC,Forward CTF4 primer roughly 300 bp upstream of ORF. For mutagenesis integration.,Eric Bryant,
 CTF4-nFLAG-A,,GGAATTCCAGCTGACCACCGATGGACTACAAAGACGATGA,Forward CTF4 primer with A adaptamer and homology to a FLAG epitope tag. For N-terminal FLAG tagging Ctf4,Eric Bryant,
 CTF4-nFLAG-F,,ATGGACTACAAAGACGATGACGACAAGGTTTCAGTTATAGACAAGCTTG,Forward CTF4 primer with FLAG epitope tag and homology to CTF4. For N-terminal FLAG tagging Ctf4,Eric Bryant,
+CTF4-FLAG-A,,ggaattccagctgaccaccgATGgactacaaagacgatgacgacaagGTTTCAGTTATAGACAAGCTTG,Forward CTF4 primer to introduce N-terminal FLAG epitope with A homology for cloning.,Eric Bryant,
+CTF4-FLAG-B,,gatccccgggaattgccatgTTActtgtcgtcatcgtctttgtagtcTTTCAATTGCTGTTCATATCTAGC,Reverse CTF4 primer to introduce C-terminal FLAG epitope with A homology for cloning.,Eric Bryant,
 CTF4-R904A-F,ctf4_R904A_mutF,GCAGCCGTTAAGATATCAGAAgcaGCTGAGCTGCCCTCTCTCG,Forward ctf4-R904A mutagenic primer.,Eric Bryant,
 CTF4-R904A-R,ctf4_R904A_mutR,CGAGAGAGGGCAGCTCAGCtgcTTCTGATATCTTAACGGCTGC,Reverse ctf4-R904A mutagenic primer.,Eric Bryant,
 CTF4-300down,,ATCTTCGTTTGAGGATGG,Reverse CTF4 primer roughly 300 bp upstream of ORF. For mutagenesis integration.,Eric Bryant,
