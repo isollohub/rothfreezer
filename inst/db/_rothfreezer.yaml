@@ -2,6 +2,7 @@ name: rothfreezer.sqlite
 
 update:
   genes: 'rothfreezer::update_genes("genes/sgd.csv")'
+  distances: 'rothfreezer::update_genetic_distances()'
 
 table:
   addresses: addresses
@@ -9,6 +10,7 @@ table:
   alleles: alleles
   antibodies: antibodies
   genes: genes
+  genetic_distances: genetic-distances
   media: media
   plasmids: plasmids
   primers: primers
