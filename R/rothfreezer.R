@@ -47,7 +47,7 @@ tbl.src_rothfreezer <- function(src, from, ...) {
 #' @export
 collect.tbl_rothfreezer <- function(x, ...) {
   
-  result <- drop_class(x) %>% collect
+  result <- drop_class(x) %>% collect(...)
   coltypes <- x$src$cnf$column_types
   present <- intersect(names(coltypes), names(result))
 

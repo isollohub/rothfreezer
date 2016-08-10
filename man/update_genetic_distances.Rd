@@ -4,7 +4,7 @@
 \alias{update_genetic_distances}
 \title{Update genetic distances}
 \usage{
-update_genetic_distances(to)
+update_genetic_distances()
 }
 \arguments{
 \item{to}{Where to write the CSV}
