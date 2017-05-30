@@ -1,0 +1,232 @@
+primer_id,alias,sequence,description,owner,notes
+bem1-DF,BEM1.DIST.F,TGTTACAGGTGAACATTCATGGA,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec3340
+bem1-PF,BEM1.PROX.F,GGTTTGAGAAAGCTACTCCTCA,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec3340
+bem1-PR,BEM1.PROX.R,CTCTTCTGAATTTTACGTCAGCA,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec3340
+bre1-DF,BRE1.DIST.F,GCAGGACCCATGCTTAATGA,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec3771
+bre1-PF,BRE1.PROX.F,TGTTTCTCTACCCACGAAAGA,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec3771
+bre1-PR,BRE1.PROX.R,CCCAAGGACTGCAGTAGAAG,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec3771
+ccr4-DF,CCR4.DIST.F,AGCGCCTAGACTTCCCTATT,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec7537
+ccr4-PF,CCR4.PROX.F,ACAATGTATACTGCTGGGGC,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec7537
+ccr4-PR,CCR4.PROX.R,TGATAAGCTGTCGCCGTAAC,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec7537
+chk1-DF,CHK1.DIST.F,AACTGGAACTGCTCAGTGTC,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec5722
+chk1-PF,CHK1.PROX.F,TTTTCAGCCACTGGTCATCC,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec5722
+chk1-PR,CHK1.PROX.R,ATCTAGGGAAGCCACACCTT,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec5722
+chl1-DF,CHL1.DIST.F,GCCTGCCTGACTTCTTAGAC,Distal primer used to validate a knockout,Matthieu Haudiquet,
+chl1-PF,CHL1.PROX.F,GCCTGCCTGACTTCTTAGAC,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,
+chl1-PR,CHL1.PROX.R,TAGAAAGCTTCACGGCTGAC,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,
+ckb1-DF,CKB1.DIST.F,GACGTTCTTTGACCTTGGCT,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec4387
+ckb1-PF,CKB1.PROX.F,GACGTTCTTTGACCTTGGCT,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec4387
+ckb1-PR,CKB1.PROX.R,CAGATGGACGACGAAGCTG,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec4387
+clb5-DF,CLB5.DIST.F,GCCCTCAGTGAAAAGAACCA,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec5535
+clb5-PF,CLB5.PROX.F,GATAGCGCCCACAGCATATC,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec5535
+clb5-PR,CLB5.PROX.R,TTTCAGTTCAACCGTTTCCG,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec5535
+ctf18-DF,CTF18.DIST.F,GTTCTGCCAATGCCTTCTCT,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec6212
+ctf18-PF,CTF18.PROX.F,AGGACAGTTTTGAGGGTAGGA,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec6212
+ctf18-PR,CTF18.PROX.R,TGGAGTTAATTCAGCAGTCTGT,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec6212
+erg2-DF,ERG2.DIST.F,TTTGTTCGGGAGTCATAGCG,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec788
+erg2-PF,ERG2.PROX.F,AGCAAACGTCAAACATGCTG,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec788
+erg2-PR,ERG2.PROX.R,GGGAATTTGAGAGGCCTCTG,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec788
+esc2-DF,ESC2.DIST.F,TACACGTATCGCAATGGAGC,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec4200
+esc2-PF,ESC2.PROX.F,CATCCAGGCTTTCTCGAACA,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec4200
+esc2-PR,ESC2.PROX.R,CCAAGAAAACTATAGCCGAGGA,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec4200
+gnd1-DF,GND1.DIST.F,AACGACAAGGATGGCCATTT,Distal primer used to validate a knockout,Matthieu Haudiquet,
+gnd1-PF,GND1.PROX.F,CTCTCTGTTCTTTCGTCCCG,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,
+gnd1-PR,GND1.PROX.R,ACTGCTTTGGGGAAGTTGAG,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,
+hpc2-DF,HPC2.DIST.F,AACGGGTAAGTTGATCGGTG,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec3355
+hpc2-PF,HPC2.PROX.F,CTTGCAGCGTTGTCTTTTCC,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec3355
+hpc2-PR,HPC2.PROX.R,TTGAAGTCAGTCGAACCTGA,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec3355
+imp2'-DF,IMP2'.DIST.F,AACGTTCATCCAGCTTGTGA,Distal primer used to validate a knockout,Matthieu Haudiquet,
+imp2'-PF,IMP2'.PROX.F,TTGTCCAACACTCCCATCAG,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,
+imp2'-PR,IMP2'.PROX.R,TTGTGCACTAACGGCCTATC,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,
+mre11-DF,MRE11.DIST.F,ATGGGCACGCAGATTCAATC,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec810
+mre11-PF,MRE11.PROX.F,GTCACTCGAAACAGCTGGAT,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec810
+mre11-PR,MRE11.PROX.R,GTTAACGCTTGCTTCCGTTC,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec810
+msh3-DF,MSH3.DIST.F,CCCGCTTGTAAAATATCCCGA,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec5811
+msh3-PF,MSH3.PROX.F,TGCTGTGTTCAAATCACGGT,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec5811
+msh3-PR,MSH3.PROX.R,ACCCGAAAAGGAACTCAGTG,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec5811
+pfd1-DF,PFD1.DIST.F,AAGACTGGATAGGGACGACC,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec1246
+pfd1-PF,PFD1.PROX.F,TCAATCGTGTTGTCTGTCCC,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec1246
+pfd1-PR,PFD1.PROX.R,GACTTCGTGGTTCACTTGGT,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec1246
+rad16-DF,RAD16.DIST.F,CAGTTGTTCCGACGCTTAGA,Distal primer used to validate a knockout,Matthieu Haudiquet,
+rad16-PF,RAD16.PROX.F,ACATCCCCTCTTCCCTTTGA,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,
+rad16-PR,RAD16.PROX.R,CCAAAGCTCCGGAACTAGAC,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,
+rad18-DF,RAD18.DIST.F,GATTCATCGCAAACGGTTGG,distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec5787
+rad18-PF,RAD18.PROX.F,TCCTAAACTGGGCTGGAGTT,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec5787
+rad18-PR,RAD18.PROX.R,GGAAATGCAGGCATCTGGTA,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec5787
+rad23-DF,RAD23.DIST.F,CAACAGCAACAGCAACAACA,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec278
+rad23-PF,RAD23.PROX.F,CCTGATAGAAACTAGGCTCGG,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec278
+rad23-PR,RAD23.PROX.R,TTAGCTTCCCGACCTGGTAA,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec278
+rad9-DF,RAD9.DIST.F,TGTCAGCAATGTTTCCACCA,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec3576
+rad9-PF,RAD9.PROX.F,TGGAGAAAATGTTGGCAGCT,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec3576
+rad9-PR,RAD9.PROX.R,GACTGAAGTGGACTACTGCG,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec3576
+rmi1-DF,RMI1.DIST.F,CTCACGCGAACAGGTTTTTC,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec2804
+rmi1-PF,RMI1.PROX.F,ATCCGCTATCGTCCTCTTGA,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec3340
+rmi1-PR,RMI1.PROX.R,GGGCGATTCATCTGGTTCAT,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec3340
+rph1-DF,RPH1.DIST.F,CACCCCATAAGCCTTAACCG,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec6165
+rph1-PF,RPH1.PROX.F,ACCTCATCGCCATGCAATTA,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec6165
+rph1-PR,RPH1.PROX.R,CGGCCTAGGGTAGATTCAGA,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec6165
+rrd1-DF,RRD1.DIST.F,CCCTCACCTTCCTCTTCAGA,Distal primer used to validate a knockout,Matthieu Haudiquet,
+rrd1-PF,RRD1.PROX.F,GTCTCGTTCGCCTCTTTTCT,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,
+rrd1-PR,RRD1.PROX.R,ATTACCGTCATGTTGCACGT,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,
+rtt101-DF,RTT101.DIST.F,TCTTCCATAGAGCTGGCCTT,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec1376
+rtt101-PF,RTT101.PROX.F,CCACATATCGAGGGGAGAGT,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec1376
+rtt101-PR,RTT101.PROX.R,ACGAAAAGCTATCCTGCCAA,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec1376
+sac1-DF,SAC1.DIST.F,CATCCACAGCTACCACATCC,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec5062
+sac1-PF,SAC1.PROX.F,AGACAGTGGCCTTCCCTTAT,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec5062
+sac1-PR,SAC1.PROX.R,CCAGGGACGATGCTGAAAAA,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec5062
+swi5-DF,SWI5.DIST.F,CTCCGCTCACACCTTGTTAA,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec4080
+swi5-PF,SWI5.PROX.F,CAATCCGGGCAAGTAGAGAG,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec4080
+swi5-PR,SWI5.PROX.R,CTGGTTATTCCGCAGACGAA,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec4080
+tok1-DF,TOK1.DIST.F,ATCGAGACTCTGCGAAGGTA,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec1330
+tok1-PF,TOK1.PROX.F,ATCGAGACTCTGCGAAGGTA,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec1330
+tok1-PR,TOK1.PROX.R,ACCCGACAGAATTCCTCCTA,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec1330
+vma10-DF,VMA10.DIST.F,TACATGCACCATTCGCTTCA,Distal primer used to validate a knockout,Matthieu Haudiquet,
+vma10-PF,VMA10.PROX.F,TGTGCTTCTTGGAACACTCC,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,
+vma10-PR,VMA10.PROX.R,CGTTTTGCTTCTCCAACCAT,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,
+vps20-DF,VPS20.DIST.F,ACGAAACCAACCAAGCAGAT,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec6211
+vps20-PF,VPS20.PROX.F,CGCAGTCTCTCTTAAGAAGCA,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec6211
+vps20-PR,VPS20.PROX.R,CCTCGAGGACTTGAAATCCA,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec6211
+vps33-DF,VPS33.DIST.F,TGAATTGGCAGACCGTACAG,Distal primer used to validate a knockout,Matthieu Haudiquet,
+vps33-PF,VPS33.PROX.F,ATTCCGGAGCTGAAGTTGTG,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,
+vps33-PR,VPS33.PROX.R,ACACACCGTCTTTGAAGTGT,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,
+vps41-DF,VPS41.DIST.F,GTCTGACCTGGTTATGCAGG,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec4015
+vps41-PF,VPS41.PROX.F,TCGACTTTCGAGGGATTTACT,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec4015
+vps41-PR,VPS41.PROX.R,CTTCCGACTGGTGGTTCAAA,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec4015
+whi3-DF,WHI3.DIST.F,TCGTTATTGTTACCCGCGTT,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec2015
+whi3-PF,WHI3.PROX.F,AAAGGCTTTTGAAACGCTGC,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec2015
+whi3-PR,WHI3.PROX.R,GCGGTATAGGAGTTCGCAAA,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec2015
+dna2-DF,DNA2-DIST.F,TGCTACCTACCACACGATGA,Distal primer used to validate a knockout,Matthieu Haudiquet,
+dna2-PF,DNA2.PROX.F,ACGCTTTCCGCACTATGAAA,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,
+dna2-PR,DNA.PROX.F,GATTCTCCCAAGCCTCCAAG,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,
+dot1-PF,DOT1-F,TACGGCTAAAGACCGTAGAGT,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec4276
+dot1-PR,DOT1-R,GAAATGCAGGTTGAAGCCATT,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec4276
+dot1-DF,DOT1-OF,TGAAAGAGCTCTGGCATGAAT,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec4276
+exo1-PF,EXO1-F,CCGAGAAGGAGAAGTATTACGTCCAAAC,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec1809
+exo1-PR,EXO1-R,AGTTGATAGCGAATGTAGACCGCT,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec1809
+exo1-DF,EXO1-OF,CCCACATTTTGCATGGACAGGT,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec1809
+mms2-PF,MMS2-F,CCACCACTATTGCTCATTT,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec4454
+mms2-PR,MMS2-R,CCATTCGTAACACGTACAG,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec4454
+mms2-DF,MMS2-OF,AGAGGACCCACCACTAT,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec4454
+rad16-PF,RAD16-F,CAGCACAAAATGTGTTACTCCTCG,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,
+rad16-PR,RAD16-R,CGCATGGACAGGTGTTGATTGGTCTAAT,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,
+rad16-DF,RAD16-OF,AGCATAGGATACCGAGAAACCGTA,Distal primer used to validate a knockout,Matthieu Haudiquet,
+rad50-PF,RAD50-F,GCGTTTCTGGTGCTATTC,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec6464
+rad50-PR,RAD50-R,GTTAAGGATATCTGGTAGTCAAG,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec6464
+rad50-DF,RAD50-OF,GTAGCTCATTTCGACCATAAA,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec6464
+saw1-PF,SAW1-F,GCCTCTAGGAAGGAAGTAATGAGGA,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec381
+saw1-PR,SAW1-R,GGGTGGGCAAGAAAAAATTGTCAG,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec381
+saw1-DF,SAW1-OF,GGACCATTGGATGGAAAGAGCTT,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec381
+sis2-PF,SIS2-F,CATGATCGTCTTTGATGTATCT,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec5988
+sis2-PR,SIS2-R,TCACCGCCGGATGTATTA,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec5988
+sis2-DF,SIS2-OF,GTACCCTATCATATCTAACACAC,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec5988
+slt2-PF,SLT2-F,CGAATACTTGTGAGCCTATC,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec993
+slt2-PR,SLT2-R,GCTACTGGATTTCCCATAAA,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec993
+slt2-DF,SLT2-OF,TGAAATGACTTGCAACGA,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec993
+spt2-PF,SPT2-F,CAGAGCCAGAAGATAGTTTAG,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec6157
+spt2-PR,SPT2-R,GTAAGGAAACGGGTTGTG,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec6157
+spt2-DF,SPT2-OF,AAGCAAGGCCGTATAGT,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec6157
+ssz1-PF,SSZ1-F,GAGGAAGAATGATGACAAGAG,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec6414
+ssz1-PR,SSZ1-R,CACCCAACCCAAGAATATG,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec6414
+ssz1-DF,SSZ1-OF,AGATTGCCAGAGGTAAGG,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec6414
+swi4-PF,SWI4-F,CGTCAACGTGAAAAACGCACA,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec6109
+swi4-PR,SWI4-R,CTTGCGGGGTCTTGCCTATT,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec6109
+swi4-DF,SWI4-OF,GGATACAATTACCTTCGGCGG,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec6109
+top3-PF,TOP3-F,GCATTTTCATCGCATGTCAACC,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec5413
+top3-PR,TOP3-R,CATACTATTTGCCTTAGAAGCCCG,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec5413
+top3-DF,TOP3-OF,CCAGTGCTCAAACCATTGGAGT,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec5413
+pif1-PF,PIF1-F,AGATACGGATGCCTTGTGGAGA,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec509
+pif1-PR,PIF1-R,GATGAGCACTTTCTTTTAGTTGGGAG,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec509
+pif1-DF,PIF1-OF,GCGACCCCATCTATTGTTGTGATT,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec509
+mms4-PF,MMS4-F,CTTACCGATGAAGCAACAAGTTCC,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec7637
+mms4-PR,MMS4-R,GATAACACCGCCAAACCAAAAC,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec7637
+mms4-DR,MMS4-OR,CAATGGTCTGCGAAGCCTTATC,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec7637
+rad28-PF,RAD28-F,CACTGGGCACTTTTTCTCTAATGC,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec3969
+rad28-PR,RAD28-R,TGGCTTCTTGTTCTCCTGTTCTG,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec3969
+rad28-DF,RAD28-OF,GCAACGATAAAAATGGCGGA,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec3969
+gcn5-PF,GCN5-F,CCAGCCACTATTTGCTTTTTTCGC,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec7285
+gcn5-PR,GCN5-R,CCATTCGGGGTTGCCTTGTTA,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec7285
+gcn5-DF,GCN5-OF,CCTCGTCTGTTGTTTTATGTAGGGC,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec7285
+rad51-PF,RAD51-F,GCACCACTACCGTTCTTCAACCA,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec6401
+rad51-PR,RAD51-R,CAACCGTACTTCTCTTGCTGTTAGC,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,primers succesfully used in  rec6401
+rad51-DF,RAD51-OF,CCACGTTAATAGCGATCTGGCTTA,Distal primer used to validate a knockout,Matthieu Haudiquet,primers succesfully used in  rec6401
+mte1-PF,MTE1-F,CATAGGAATAGGATTTGGTGTGGG,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,
+mte1-PR,MTE1-R,AGTGCTAAGGAAGAAGGCGTCG,Proximal primer used to transfer a knockout marker,Matthieu Haudiquet,
+mte1-DF,MTE1-OF,GCATCTGCCTTTTTGTTCCGC,Distal primer used to validate a knockout,Matthieu Haudiquet,
+cln3-PF,CLN3-300F,TCTTCTACTACTGAGTCTGC,Proximal primer used to transfer a knockout marker,Eric Bryant,
+cln3-PR,CLN3-300R,GCAGATGTTCAAGCTATACC,Proximal primer used to transfer a knockout marker,Eric Bryant,
+cln3-DF,CLN3-350F,ATCTGTACTTTCCTCGAGC,Distal primer used to validate a knockout,Eric Bryant,
+csm3-PF,CSM3-300F,CAAATGGCTGTGTTGTTG,Proximal primer used to transfer a knockout marker,Eric Bryant,
+csm3-PR,CSM3-300R,AGTAATCAATAGTCTGGGTG,Proximal primer used to transfer a knockout marker,Eric Bryant,
+csm3-DF,CSM3-350F,GCCACCAAAGGTTGATCC,Distal primer used to validate a knockout,Eric Bryant,primer successfully used in rec10994
+ctf18-PF2,CTF18-300F,CAGAACTATCTGAAGAATGTG,Proximal primer used to transfer a knockout marker,Eric Bryant,
+ctf18-PR2,CTF18-300R,GTTAATTCAGCAGTCTGTAC,Proximal primer used to transfer a knockout marker,Eric Bryant,
+ctf18-DF2,CTF18-350F,ATACCACTTGTGTTTGTTAG,Distal primer used to validate a knockout,Eric Bryant,
+ctf4-PF,CTF4-300F,ACAAGGCTTATCCATATTCG,Proximal primer used to transfer a knockout marker,Eric Bryant,
+ctf4-PR,CTF4-300R,GTTGGGTAACATCTGACATC,Proximal primer used to transfer a knockout marker,Eric Bryant,
+ctf4-DF,CTF4-350F,ATTTGAGTGTAAAATCACAGG,Distal primer used to validate a knockout,Eric Bryant,
+ctf8-PF,CTF8-300F,CGCGACATCTAATTGATGG,Proximal primer used to transfer a knockout marker,Eric Bryant,
+ctf8-PR,CTF8-300R,TCTAAATTGGCTGTGCAAG,Proximal primer used to transfer a knockout marker,Eric Bryant,
+ctf8-DF,CTF8-350F,ATTGACTCAAGATGGATTGG,Distal primer used to validate a knockout,Eric Bryant,primer successfully used in rec16421
+dcc1-PF,DCC1-300F,GCAGTGAGAGAAATCTTCC,Proximal primer used to transfer a knockout marker,Eric Bryant,
+dcc1-PR,DCC1-300R,CTTCCAGTTGTAGCAGTTC,Proximal primer used to transfer a knockout marker,Eric Bryant,
+dcc1-DF,DCC1-350F,GTAGAATGCGAGTACAGAC,Distal primer used to validate a knockout,Eric Bryant,primer successfully used in rec13423
+ddc1-PF,DDC1-300F,CCTTAGAAAGGAAGACGAG,Proximal primer used to transfer a knockout marker,Eric Bryant,
+ddc1-PR,DDC1-300R,GCCTAGAATGTCCATCACC,Proximal primer used to transfer a knockout marker,Eric Bryant,
+ddc1-DF,DDC1-350F,GAAGAGGATCGCAGGAAG,Distal primer used to validate a knockout,Eric Bryant,primer successfully used in rec11098
+dpb3-PF,DPB3-300F,TGCATCCTGATGTAGTCG,Proximal primer used to transfer a knockout marker,Eric Bryant,
+dpb3-PR,DPB3-300R,GACCCTTTATACTATTATGAGC,Proximal primer used to transfer a knockout marker,Eric Bryant,
+dpb3-DF,DPB3-350F,CCAAAGGAAATATCATGAGC,Distal primer used to validate a knockout,Eric Bryant,
+dpb4-PF,DPB4-300F,TCTACATTGTAAGAGGAAAGG,Proximal primer used to transfer a knockout marker,Eric Bryant,
+dpb4-PR,DPB4-300R,CTAGGTTACCGTATGTCC,Proximal primer used to transfer a knockout marker,Eric Bryant,
+dpb4-DF,DPB4-350F,GTATCCTGAAGAAACCTTCC,Distal primer used to validate a knockout,Eric Bryant,
+elg1-PF,ELG1-300F,AGAATGGCAAGAGAATCTG,Proximal primer used to transfer a knockout marker,Eric Bryant,
+elg1-PR,ELG1-300R,TGTGACCAATTGTGATCTAC,Proximal primer used to transfer a knockout marker,Eric Bryant,
+elg1-DF,ELG1-350F,ACTCTAAAATCCACATTTTGG,Distal primer used to validate a knockout,Eric Bryant,
+esc2-PF2,ESC2-300F,AAAGCTTTAACAACTCATCC,Proximal primer used to transfer a knockout marker,Eric Bryant,
+esc2-PR2,ESC2-300R,ACTATTCAAACCTAGCACG,Proximal primer used to transfer a knockout marker,Eric Bryant,
+esc2-DF2,ESC2-350F,AAACTGCTCTTACTGAGTAG,Distal primer used to validate a knockout,Eric Bryant,
+mec3-PF,MEC3-300F,TTCCCATGGTCAACATGG,Proximal primer used to transfer a knockout marker,Eric Bryant,
+mec3-PR,MEC3-300R,CTAATGAGGCATTACGTACC,Proximal primer used to transfer a knockout marker,Eric Bryant,
+mec3-DF,MEC3-350F,GCAGTCTGTCACTTAAGG,Distal primer used to validate a knockout,Eric Bryant,
+mhf1-PF,MHF1-300F,CAACTACACTTATACGACG,Proximal primer used to transfer a knockout marker,Eric Bryant,
+mhf1-PR,MHF1-300R,GTTAGAGCTAACGGTACC,Proximal primer used to transfer a knockout marker,Eric Bryant,
+mhf1-DF,MHF1-350F,CCTGTATCTATGCAATTGC,Distal primer used to validate a knockout,Eric Bryant,
+mph1-PF,MPH1-300F,CTTTCATTGTGCATGTGG,Proximal primer used to transfer a knockout marker,Eric Bryant,
+mph1-PR,MPH1-300R,TTTCACCTAACGAATGATTG,Proximal primer used to transfer a knockout marker,Eric Bryant,
+mph1-DF,MPH1-350F,ATCACCAACAAAACATGATAC,Distal primer used to validate a knockout,Eric Bryant,
+mrc1-PF,MRC1-300F,GGAAGAAGAAGCATACAAGC,Proximal primer used to transfer a knockout marker,Eric Bryant,
+mrc1-PR,MRC1-300R,CAAATCATAATGTAGCACAGG,Proximal primer used to transfer a knockout marker,Eric Bryant,
+mrc1-DF,MRC1-350F,GAGTATTTCTTAAGCAAGAGAG,Distal primer used to validate a knockout,Eric Bryant,primer successfully used in rec13467
+mre11-PF2,MRE11-300F,TGGATCTCAAACATATGTTGG,Proximal primer used to transfer a knockout marker,Eric Bryant,
+mre11-PR2,MRE11-300R,CTATATCATCGTTTCCATCATG,Proximal primer used to transfer a knockout marker,Eric Bryant,
+mre11-DF2,MRE11-350F,TCATTTCGACCGTCACTC,Distal primer used to validate a knockout,Eric Bryant,
+rad17-PF,RAD17-300F,CATCTACAAGATGGTACTGG,Proximal primer used to transfer a knockout marker,Eric Bryant,
+rad17-PR,RAD17-300R,AAGGTTCCATTGATCAAGG,Proximal primer used to transfer a knockout marker,Eric Bryant,
+rad17-DF,RAD17-350F,CCCGGTTAAGTCTAAACC,Distal primer used to validate a knockout,Eric Bryant,
+rad50-PF2,RAD50-300F,TCGGAGAATAATAACCATGC,Proximal primer used to transfer a knockout marker,Eric Bryant,
+rad50-PR2,RAD50-300R,CTTGGTTAACAACGGTGTAG,Proximal primer used to transfer a knockout marker,Eric Bryant,
+rad50-DF2,RAD50-350F,GGTAATGTTACAATCCTTCAC,Distal primer used to validate a knockout,Eric Bryant,
+rmi1-PF2,RMI1-300F,GCTATCGTCCTCTTGACAG,Proximal primer used to transfer a knockout marker,Eric Bryant,
+rmi1-PR2,RMI1-300R,CTCTAGCGTTGTAACATGG,Proximal primer used to transfer a knockout marker,Eric Bryant,
+rmi1-DF2,RMI1-350F,ACATAGAGTACAGCTCTTCC,Distal primer used to validate a knockout,Eric Bryant,
+rrm3-PF,RRM3-300F,CAGACCCTTGACAAATCTG,Proximal primer used to transfer a knockout marker,Eric Bryant,
+rrm3-PR,RRM3-300R,AGATTTGCTGACTGAATGC,Proximal primer used to transfer a knockout marker,Eric Bryant,
+rrm3-DF,RRM3-350F,CTATCTTCTTCACCGCTAAC,Distal primer used to validate a knockout,Eric Bryant,primer successfully used in rec10994
+tel1-PF,TEL1-300F,CAAGAGTTGCATCTAACTCC,Proximal primer used to transfer a knockout marker,Eric Bryant,
+tel1-PR,TEL1-300R,TTACTGTTCTCATATCTACTGG,Proximal primer used to transfer a knockout marker,Eric Bryant,
+tel1-DF,TEL1-350F,GGAATGTGCCGATTTATGG,Distal primer used to validate a knockout,Eric Bryant,
+tof1-PF,TOF1-300F,GAGGTGTATACAGAGTTATACG,Proximal primer used to transfer a knockout marker,Eric Bryant,
+tof1-PR,TOF1-300R,AAGACAAACTTGACGATAGG,Proximal primer used to transfer a knockout marker,Eric Bryant,
+tof1-DF,TOF1-350F,CGGAACCACATTATGAAGC,Distal primer used to validate a knockout,Eric Bryant,primer successfully used in rec11171
+top3-PF2,TOP3-300F,TGTTAGATGTTTATCCAGATGC,Proximal primer used to transfer a knockout marker,Eric Bryant,
+top3-PR2,TOP3-300R,GCATACTATTTGCCTTAGAAGC,Proximal primer used to transfer a knockout marker,Eric Bryant,
+top3-DF2,TOP3-350F,CATCTGAACGTGATATATGC,Distal primer used to validate a knockout,Eric Bryant,
+xrs2-PF,XRS2-300F,CAATTTGTAAGCTGGTGGAG,Proximal primer used to transfer a knockout marker,Eric Bryant,
+xrs2-PR,XRS2-300R,TGGCCAAATCGGTTAATCC,Proximal primer used to transfer a knockout marker,Eric Bryant,
+xrs2-DF,XRS2-350F,CCAAATTGCGGTAGAATGG,Distal primer used to validate a knockout,Eric Bryant,
+yen1-PF,YEN1-300F,GTAGTATATTGGCATTGAACAC,Proximal primer used to transfer a knockout marker,Eric Bryant,
+yen1-PR,YEN1-300R,CAATCCACTATACGGTCATTC,Proximal primer used to transfer a knockout marker,Eric Bryant,
+yen1-DF,YEN1-350F,TTACCTCTGACCACAATCC,Distal primer used to validate a knockout,Eric Bryant,
+ygr042w-PF,YGR042W-300F,CTTACTCGTCGAAGATTTCC,Proximal primer used to transfer a knockout marker,Eric Bryant,
+ygr042w-PR,YGR042W-300R,CAAATTGAATTCTGAGAGTGC,Proximal primer used to transfer a knockout marker,Eric Bryant,
+ygr042w-DF,YGR042W-350F,AATAAGAGAGTAACTCCATGC,Distal primer used to validate a knockout,Eric Bryant,
